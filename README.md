@@ -8,7 +8,7 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 
 * Users can create, edit, and remove campgrounds
 * Users can review campgrounds, and edit or remove their review
-* Search campground by name or location
+* Responsive map to choose campsites in your area
 
 
 ## Visit on Heroku
