@@ -24,6 +24,3 @@ https://boiling-escarpment-79680.herokuapp.com/
 git clone https://github.com/TylerJVannoy/Yelp-Camp.git
 cd yelpcamp
 npm install
-
-
-
