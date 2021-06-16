@@ -14,6 +14,11 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 ## Visit on Heroku
 https://boiling-escarpment-79680.herokuapp.com/
 
+### Credentials (Case sensitive)
+
+Login: guest
+Password: guest
+
 
 ## Run it Locally
 
