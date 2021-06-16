@@ -11,6 +11,10 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 * Search campground by name or location
 
 
+## Visit on Heroku
+https://boiling-escarpment-79680.herokuapp.com/
+
+
 ## Run it Locally
 
 1. [Install Mongodb](https://www.mongodb.com/)
@@ -21,5 +25,5 @@ git clone https://github.com/TylerJVannoy/Yelp-Camp.git
 cd yelpcamp
 npm install
 
-## Visit on Heroku
-https://boiling-escarpment-79680.herokuapp.com/
+
+
